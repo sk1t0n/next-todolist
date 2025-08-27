@@ -9,9 +9,8 @@
 <p align="center">
   <a href="#tech-stack"><strong>Tech stack</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
-  <a href="#demo"><strong>Demo</strong></a> ·
+  <a href="#demo"><strong>Demo</strong></a>
 </p>
-<br/>
 
 ## Tech stack
 
