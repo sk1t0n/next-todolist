@@ -1,5 +1,7 @@
 # next-todolist
 
+[![CI/CD](https://github.com/sk1t0n/next-todolist/actions/workflows/vercel.yml/badge.svg)](https://github.com/sk1t0n/next-todolist/actions/workflows/vercel.yml)
+
 <p align="center">
  Example todo list using Next.js, Supabase and Zustand.
 </p>
