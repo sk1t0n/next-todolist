@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`TodoList check snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="max-w-[600px] mx-auto p-6 space-y-6"
+  >
+    <div
+      class="text-center"
+    >
+      <h1
+        class="text-3xl font-bold mb-2"
+      >
+        Todo list
+      </h1>
+      <p
+        class="text-muted-foreground"
+      >
+        View todos (login to create or edit todos)
+      </p>
+    </div>
+    <div
+      class="space-y-4"
+    >
+      <div
+        class="rounded-xl border bg-card text-card-foreground shadow"
+      >
+        <div
+          class="p-6"
+        >
+          <div
+            class="flex items-start gap-4"
+          >
+            <div
+              class="flex-1"
+            >
+              <div
+                class="flex items-center gap-2 mb-2"
+              >
+                <h3
+                  class="text-lg font-semibold "
+                >
+                  Todo 1
+                </h3>
+              </div>
+              <p
+                class="text-sm text-muted-foreground"
+              >
+                Created: 1/1/2025
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
