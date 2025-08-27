@@ -30,5 +30,5 @@
 
 ## Demo
 
-You can view a fully working demo at [next-todolist-sk1t0n.vercel.app](https://next-todolist-sk1t0n.vercel.app/).
+You can view a fully working demo at [next-todolist-three.vercel.app](https://next-todolist-three.vercel.app/).
 
