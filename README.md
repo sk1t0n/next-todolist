@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#tech-stack"><strong>Tech stack</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
+  <a href="#run"><strong>Run</strong></a> ·
   <a href="#demo"><strong>Demo</strong></a>
 </p>
 
@@ -30,7 +31,16 @@
 - Supabase is used for data storage and auth.
 - Zustand is used to store the application state on the client.
 
+## Run
+
+```bash
+git clone --depth=1 https://github.com/sk1t0n/next-todolist.git
+cd next-todolist
+npm i
+npm run build
+npm run start
+```
+
 ## Demo
 
 You can view a fully working demo at [next-todolist-three.vercel.app](https://next-todolist-three.vercel.app/).
-
