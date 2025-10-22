@@ -37,8 +37,11 @@
 git clone --depth=1 https://github.com/sk1t0n/next-todolist.git
 cd next-todolist
 npm i
-npm run build
-npm run start
+cp .env.example .env
+# Before running the application, you need to configure Supabase:
+#   1. set environment variables in the .env file
+#   2. run commands from https://github.com/sk1t0n/next-todolist/blob/main/supabase-schema.sql in your dashboard
+npm run dev
 ```
 
 ## Demo
