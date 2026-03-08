@@ -3,7 +3,7 @@
 [![CI/CD](https://github.com/sk1t0n/next-todolist/actions/workflows/vercel.yml/badge.svg)](https://github.com/sk1t0n/next-todolist/actions/workflows/vercel.yml)
 
 <p align="center">
- Example todo list using Next.js, Supabase and Zustand.
+ Example todo list using Next.js, Supabase and Zustand. The old example using Next.js, Redux, Firebase and Ant Design can be found <a href="https://github.com/sk1t0n/next-todos">here</a>.
 </p>
 
 ![screenshot](screenshot.png)
